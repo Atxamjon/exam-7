@@ -1,0 +1,17 @@
+.Aside_list {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    padding: 30px 30px;
+}
+
+.Aside_item {
+    max-width: 528px;
+    padding: 44px 43px 38px 43px;
+    fill: #FFF;
+    border-radius: 20.116px;
+    box-shadow: 1px 5px 10px 2px silver;
+    flex: 0 0 auto;
+    list-style: none;
+
+}
